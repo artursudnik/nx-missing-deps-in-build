@@ -23,7 +23,9 @@
       },
       "configurations": {
         "development": {},
-        "production": {}
+        "production": {
+          "generatePackageJson": true
+        }
       }
     },
     "serve": {
